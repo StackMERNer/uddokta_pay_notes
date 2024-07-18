@@ -1,6 +1,5 @@
 Here are some Error messages you may encounter while running UddoktaPay : 
 
-Certainly! Here's the table with the requested order:
 
 | Error Message                                                                                         | Extension      | Purpose                                                                                   |
 |-------------------------------------------------------------------------------------------------------|----------------|-------------------------------------------------------------------------------------------|
