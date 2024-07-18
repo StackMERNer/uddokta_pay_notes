@@ -1,0 +1,20 @@
+Here are some Error messages you may encounter while running UddoktaPay : 
+
+Certainly! Here's the table with the requested order:
+
+| Error Message                                                                                         | Extension      | Purpose                                                                                   |
+|-------------------------------------------------------------------------------------------------------|----------------|-------------------------------------------------------------------------------------------|
+| Current PHP version is " . phpversion() . "! PHP version required for running UddoktaPay is PHP 7.4. Please check and upgrade your current PHP version. | PHP Version   | Check and upgrade PHP version to 7.4 or higher.                                          |
+| ionCube Loader function is missing! UddoktaPay requires ionCube Loader function to run, Please check and enable the extension or Contact with hosting provider. | ionCube Loader | Required for encoding and decoding ionCube protected PHP files.                          |
+| Current ionCube Loader version is " . GetIonCubeLoaderVersionForUddoktaPay() . "! minimum ionCube Loader version required for running UddoktaPay is 12.0.0. Please check and upgrade your current ionCube Loader version or Contact with hosting provider. | ionCube Loader Version | Check and upgrade ionCube Loader version to 12.0.0 or higher.                          |
+| Mysqli PHP extension missing! UddoktaPay requires Mysqli PHP extension to run, Please check and enable the extension. | mysqli         | MySQLi PHP extension for MySQL database connectivity.                                      |
+| cURL PHP extension missing! UddoktaPay requires cURL PHP extension to run, Please check and enable the extension. | curl           | cURL PHP extension for making HTTP requests.                                               |
+| Fileinfo PHP extension missing! UddoktaPay requires Fileinfo PHP extension to run, Please check and enable the extension. | fileinfo       | Fileinfo PHP extension for determining file types.                                         |
+| Openssl PHP extension missing! UddoktaPay requires Openssl PHP extension to run, Please check and enable the extension. | openssl        | OpenSSL PHP extension for secure communication.                                            |
+| ZIP PHP extension missing! UddoktaPay requires ZIP PHP extension to run, Please check and enable the extension. | zip            | ZIP PHP extension for working with ZIP archives.                                            |
+| BCMath PHP extension missing! UddoktaPay requires BCMath PHP extension to run, Please check and enable the extension. | bcmath         | BCMath PHP extension for arbitrary precision mathematics.                                   |
+| Ctype PHP extension missing! UddoktaPay requires Ctype PHP extension to run, Please check and enable the extension. | ctype          | Ctype PHP extension for character type checking.                                            |
+| JSON PHP extension missing! UddoktaPay requires JSON PHP extension to run, Please check and enable the extension. | json           | JSON PHP extension for working with JSON data.                                              |
+| Mbstring PHP extension missing! UddoktaPay requires Mbstring PHP extension to run, Please check and enable the extension. | mbstring       | Mbstring PHP extension for multibyte string functions.                                      |
+| XML PHP extension missing! UddoktaPay requires XML PHP extension to run, Please check and enable the extension. | xml            | XML PHP extension for parsing XML documents.                                                |
+| Tokenizer PHP extension missing! UddoktaPay requires Tokenizer PHP extension to run, Please check and enable the extension. | tokenizer      | Tokenizer PHP extension for tokenizing PHP source code.                                     |
